@@ -15,4 +15,4 @@ by opening terminal and execute python file script, example(root@2f19dda6469b:/h
 * etl.pynb : this file is like tutorial to helps you make etl process and complete etl.py
 * etl.py :makes functions to make etl process like extract data from directories and insert it in database uses inserts queries in sql_queries.py
 ## ERD of the database
-![ERD](sparkify ERD.png)
+![ERD](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/sparkify%20ERD.png)
