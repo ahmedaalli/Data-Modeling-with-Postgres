@@ -21,7 +21,7 @@ song_data/A/B/C/TRABCEI128F424C983.json
 song_data/A/A/B/TRAABJL12903CDCF1A.json
 ```
 ```
-![https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/songdata.png]
+![songdata](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/songdata.png)
 ```
 
 ### Song Dataset
