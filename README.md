@@ -35,5 +35,5 @@ log_data/2018/11/2018-11-13-events.json
 
 ![logdata](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/logdata.png)
 
-## ERD of the database
+## Schema Design ERD
 ![ERD](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/sparkify%20ERD.png)
