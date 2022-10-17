@@ -32,6 +32,7 @@ The log files in the dataset you'll be working with are partitioned by year and 
 log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 ```
+
 ![logdata](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/logdata.png)
 
 ## ERD of the database
