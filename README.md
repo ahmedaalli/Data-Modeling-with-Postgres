@@ -21,7 +21,7 @@ song_data/A/B/C/TRABCEI128F424C983.json
 song_data/A/A/B/TRAABJL12903CDCF1A.json
 ```
 
-![songdata](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/songdata.png)
+![songdata](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/images/songdata.png)
 
 
 ## log Dataset
@@ -36,4 +36,4 @@ log_data/2018/11/2018-11-13-events.json
 ![logdata](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/images/logdata.png)
 
 ## Schema Design ERD
-![ERD](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/sparkify%20ERD.png)
+![ERD](https://github.com/ahmedaalli/Data-Modeling-with-Postgres/blob/main/images/sparkify ERD.png)
