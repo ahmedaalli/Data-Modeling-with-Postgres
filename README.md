@@ -1,6 +1,5 @@
 # Data-Modeling-with-Postgres
-## project Data Modeling with Postgres
-**introduction:**
+## introduction
 In this project, we'll apply data modeling with Postgres and build an ETL pipeline using Python to help startup called Sparkify that wants to analyze the data they've been collecting on songs and user activity on their new music streaming app,The analytics team is particularly interested in understanding what songs users are listening to Currently, but there is a problem which is the data is in directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app,so we are going to make etl process to get that data and insert it in database in 
 
 ## analytical goals
