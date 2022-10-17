@@ -10,7 +10,7 @@ by opening terminal and execute python file script, example(root@2f19dda6469b:/h
 
 ## An explanation of the files in the repository
 * sql_queries.py :have all queries of drop ,create,insert tables that we will use in create_tables.py and etl.py
-* create_tables.py :this file create the database and make connection then make functions to drop all tables uses  drop tables queries in sql_queries.py ,and make functions to create all tables uses creates queries in sql_queries.py 
+* create_tables.py :this file create the database and make connection then make functions to drop all tables uses drop tables queries in sql_queries.py ,and make functions to   create all tables uses creates queries in sql_queries.py 
 * etl.pynb : this file is like tutorial to helps you make etl process and complete etl.py
 * etl.py :makes functions to make etl process like extract data from directories and insert it in database uses inserts queries in sql_queries.py
 ## ERD of the database
