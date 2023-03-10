@@ -6,7 +6,7 @@ In this project, we'll apply data modeling with Postgres and build an ETL pipeli
 is to easy access what songs users are listening to Currently
 
 ## How to run the Python scripts
-by opening terminal and execute python file script, example(root@2f19dda6469b:/home/workspace# python create_tables.py)
+by opening terminal and execute python file script, example(python create_tables.py)
 
 ## An explanation of the files in the repository
 * sql_queries.py :have all queries of drop ,create,insert tables that we will use in create_tables.py and etl.py
